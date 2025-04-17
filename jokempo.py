@@ -1,4 +1,4 @@
-import os
+
 import random
 
 print("Seja Bem-vindo ao Jokempo!")
